@@ -1,0 +1,32 @@
+_repo: Historia-de-los-Jud-os-en-Espa-a--13-desde-los-tiempos-de-su-establecimiento-hasta-principios__33885
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castro, Adolfo de
+    aliases:
+    - Rossi, Adolfo de Castro y
+    - De Castro, Adolfo
+    birthdate: 1823
+    deathdate: 1898
+    gutenberg_agent_id: '36813'
+    url: http://www.gutenberg.org/2009/agents/36813
+    wikipedia: http://es.wikipedia.org/wiki/Adolfo_de_Castro
+description: ''
+gutenberg_issued: '2010-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33885'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Jews -- Spain -- History'
+- !lcc 'DS'
+title: "Historia de los Judíos en España\r\ndesde los tiempos de su establecimiento\
+  \ hasta principios del present siglo"
+url: http://www.gutenberg.org/ebooks/33885
